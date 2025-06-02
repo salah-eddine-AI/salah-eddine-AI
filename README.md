@@ -50,7 +50,7 @@ Feel free to reach out through any of the following channels:
 
 - Email: [salaheddineaitihsane@gmail.com](mailto:salaheddineaitihsane@gmail.com)
 - LinkedIn: [Salah-eddine Ait ihsane](http://www.linkedin.com/in/salah-eddine-ait-ihsane/)
-Portfolio: [Explore my portfolio](https://salah-eddine-ait-ihsane.vercel.app/)
+- Portfolio: [Explore my portfolio](https://salah-eddine-ait-ihsane.vercel.app/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-eddine-AI&show_icons=true&locale=en" alt="salah-eddine-AI" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salah-eddine-AI&" alt="salah-eddine-AI" /></p>
