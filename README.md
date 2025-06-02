@@ -13,4 +13,4 @@ Feel free to reach out through any of the following channels:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-eddine-AI&show_icons=true&locale=en" alt="salah-eddine-AI" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salah-eddine-AI&" alt="salah-eddine-AI" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-eddine-AI" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-eddine-AI&locale=en&layout=compact" alt="salah-eddine-AI" /></p>
