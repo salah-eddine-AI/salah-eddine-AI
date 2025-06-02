@@ -14,4 +14,3 @@ Feel free to reach out through any of the following channels:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-eddine-AI&show_icons=true&locale=en" alt="salah-eddine-AI" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salah-eddine-AI&" alt="salah-eddine-AI" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-eddine-AI&show_icons=true&locale=en&layout=compact" alt="salah-eddine-AI" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salah-eddine-AI" alt="salah-eddine-AI" /></a></p>
