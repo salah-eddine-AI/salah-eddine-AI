@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Salah-eddine Ait ihsane</h1>
 <p>👋 Welcome to my GitHub!  I’m a passionate Software Engineer with a degree in Computer Science and Networks Engineering from the Moroccan School of Engineering Sciences. I enjoy building meaningful software and continuously exploring new technologies.  🚀 I'm always open to collaboration—whether it’s coding, discussing innovative solutions, or offering feedback, I’m excited to contribute and grow with the community.  Let’s connect and build something great together!</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python,react,angular,bootstrap,css,html,tailwind,qt,nodejs,spring,express,graphql,rabbitmq,hadoop,nginx,android,flutter,dart,opencv,mongodb,mysql,postgres,oracle,sqlite,docker,jenkins,bash,dotnet,symfony,flask,selenium,figma" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python,react,angular,bootstrap,css,html,tailwind,qt,nodejs,spring,express,graphql,rabbitmq,nginx,flutter,dart,opencv,mongodb,mysql,postgres,oracle,sqlite,docker,jenkins,bash,dotnet,symfony,flask,selenium,figma" alt="Skill Icons" />
 
 ## Connect With Me
 
